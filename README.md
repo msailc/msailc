@@ -12,7 +12,7 @@
 I'm a 3rd year Software Engineering Student @ IBU and Web developer.
 
 Working on:
- - [Newbees](https://github.com/msailc?tab=repositories) - Website I create with idea of users,students,newcomers to programming create teams, join them and work on projects so they can gain experience and show their skills in many fields
+ - [Newbees](https://github.com/msailc/newbees) - Website I create with idea of users,students,newcomers to programming create teams, join them and work on projects so they can gain experience and show their skills in many fields
  - [RukeBot](https://github.com/msailc/discord-rukebot) - Discord bot which will track FaceIT stats of server members since the moment they joined and leaderboard of members ranked by their ELO, will send ranking updates to text channel after elo update of member/player
  - [MyPF](https://github.com/msailc/mypf) - My simple portfolio page created with nextjs and tailwind
  - [ExpressRepo](https://github.com/msailc/express-repo) - My current API project which is in progress
